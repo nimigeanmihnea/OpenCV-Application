@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  OpenCVApplication.cpp
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(269): warning C4101: 'fname': unreferenced local variable
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(291): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(314): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(316): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(322): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(324): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(326): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(364): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(374): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(377): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(385): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\facultate\pi\opencvapplication-vs2013_2413_basic\opencvapplication.cpp(391): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  common.cpp
+  Generating Code...
+opencv_highgui2413d.lib(opencv_highgui2413d.dll) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'

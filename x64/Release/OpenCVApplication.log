@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  common.cpp
+  OpenCVApplication.cpp
+OpenCVApplication.cpp(269): warning C4101: 'fname': unreferenced local variable
+OpenCVApplication.cpp(291): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+OpenCVApplication.cpp(314): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(316): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(322): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(324): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(326): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(364): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+OpenCVApplication.cpp(374): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(377): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(385): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(391): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+opencv_highgui2413.lib(opencv_highgui2413.dll) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
